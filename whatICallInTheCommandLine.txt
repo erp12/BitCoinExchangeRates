@@ -1,0 +1,1 @@
+emergent -nogui -ni -proj C:\Users\Eddie\Desktop\NeuralNetworkFinal\BitCoinPrediction.proj batches=1 epoch=1 log_dir=. tag=test1

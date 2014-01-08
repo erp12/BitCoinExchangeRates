@@ -1,0 +1,4 @@
+Thu Dec 19 04:41:13 2013: taMisc::SetLogFile -- Log file opened for writing.
+Thu Dec 19 04:41:14 2013: Network: Network_0 auto building
+Thu Dec 19 04:41:23 2013: *** LOG: SaveUndo of action: Edit on: BpTrain at path: .programs.gp[0][1] saving at: .programs.gp[0][1]
+Thu Dec 19 04:41:24 2013: *** LOG: SaveUndo of action: Edit on: BpTrain at path: .programs.gp[0][1] saving at: .programs.gp[0][1]
